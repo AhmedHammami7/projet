@@ -1,1 +1,1 @@
-# Gestionnaire-de-mat-riel
+# Gestionnaire-de-materiel
